@@ -67,10 +67,10 @@ dentro de este analisis hay unos dominios especiales:
 
 * **Text**
     * **Analysis**
-    * **Key phrase:** Obtener las palabras claves de la oración para saber el punto clave del texto.
-    * **Entities:** Obtener las entidades mencionadas en el texto.
-    * **Sentiment:** Analizar los sentimientos que se vean reflejados en el texto (Positive .90 and negative .10)
-    * **Detect Language:** Determinar que idioma es el texto si es ambiguo devolver un NaN pero si lo determina puede devolver el codigo del lenguaje y su nombre.
+        * **Key phrase:** Obtener las palabras claves de la oración para saber el punto clave del texto.
+        * **Entities:** Obtener las entidades mencionadas en el texto.
+        * **Sentiment:** Analizar los sentimientos que se vean reflejados en el texto (Positive .90 and negative .10)
+        * **Detect Language:** Determinar que idioma es el texto si es ambiguo devolver un NaN pero si lo determina puede devolver el codigo del lenguaje y su nombre.
     
     * **Translate:**
         * **Text:** es capaz de traducir hasta 60 lenguajes.
