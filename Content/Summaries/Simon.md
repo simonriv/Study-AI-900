@@ -47,8 +47,8 @@ Existen 6 principios de Uso para poder brindar una AI de un correcto funcionamie
 
 dentro de este analisis hay unos dominios especiales:
 
-    * `Celebrities`
-    * `Landmarks`
+* `Celebrities`
+* `Landmarks`
 
 * **Object detection:** Este pondra cuadros delimitadores alrededor de los objetos que identifique en la imagen devolviendo unas cordenadas con el tag de lo que predice que puede ser el objeto en cuestion y su cantidad de confianza o de probabilidad de que si sea.
 
@@ -89,15 +89,15 @@ dentro de este analisis hay unos dominios especiales:
 
 * **Computer Vision Services:** Todo lo que tiene que ver con vision de computadora pero sin poderlo entrenar con mis propios datos. `Está incluido en el cognitive Services`
 
-*  **Custom vision Services:** Dos elementos de vison pero ahora puedo entrenarlo, `Está incluido en el cognitive Services`
+*  **Custom vision Services:** _Dos elementos de vison pero ahora puedo entrenarlo._ `Está incluido en el cognitive Services`
 
-* **Face Services:** Todo con facial vision. `Está incluido en el Cognitive Services`
+* **Face Services:** _Todo con facial vision._ `Está incluido en el Cognitive Services`
 
-*  **Form Recognized:** Analisis de formularios con imagenes (max 20mb). `No hace parte del Cognitive Services`
+*  **Form Recognized:** _Analisis de formularios con imagenes (max 20mb)._ `No hace parte del Cognitive Services`
 
 *  **Text Analysis:** `Está incluido en el Cognitive Services`
 
-*  **Speech:** Si las preguntas van hacia cualquier combinación de texto y speech o only speech es este servicio. `Está inlcuido en el Cognitive Services`
+*  **Speech:** _Si las preguntas van hacia cualquier combinación de texto y speech o only speech es este servicio._ `Está inlcuido en el Cognitive Services`
 
 *  **Tranlator text:** `Está incluido en el Cognitive Services`
 
