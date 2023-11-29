@@ -29,5 +29,5 @@ Estos son los conceptos referenciados hasta el momento,con un click en su nombre
 
 Estos son los materiales referenciados hasta el momento,con un click en su nombre te llevará a el directamente:
 
-* [How to Pass the Microsoft Certification](./Content/Material/How to Pass the Microsoft Certification.pdf)
+* [How to Pass the Microsoft Certification](./Content/Material/HowtoPassTheMicrosoftCertification.pdf)
 
